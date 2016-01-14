@@ -20,7 +20,9 @@ li {
 .card {
     margin: 0 auto;
     min-width: 300px;
+    max-width: 300px;
     min-height: 175px;
+    max-height: 175px;
     background-color: #FFF;
 }
 
