@@ -19,10 +19,10 @@ li {
 
 .card {
     margin: 0 auto;
-    min-width: 300px;
-    max-width: 300px;
-    min-height: 175px;
-    max-height: 175px;
+    min-width: 600px;
+    max-width: 600px;
+    min-height: 300px;
+    max-height: 300px;
     background-color: #FFF;
 }
 
