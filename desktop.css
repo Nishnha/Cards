@@ -18,12 +18,10 @@ li {
 }
 
 .card {
-    margin: 10px auto;
-    max-width: 50%;
-    margin-bottom: 20px;
-    padding: 0;
-    background-color: rgba(221, 221, 221, 0.52);
-    padding: 1px 20px;
+    margin: 0 auto;
+    min-width: 300px;
+    min-height: 175px;
+    background-color: #FFF;
 }
 
 .hidden {
@@ -31,7 +29,7 @@ li {
 }
 
 .footer {
-    border-top: solid 1px #dddddd;
+    border-top: solid 1px #DDD;
     padding: 1px;
     background-color: #ebebeb;
 }
