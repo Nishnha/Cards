@@ -28,7 +28,7 @@ body {
     flex: 1 1 auto;
     padding: 44% 0;
     background-color: #5bc0de;
-    color: #fff;
+    color: #333;
 }
 
 #cardTask {

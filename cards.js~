@@ -15,5 +15,6 @@ cardTask.innerHTML = string;
 card.addEventListener("click", randomCard);
 
 function randomCard() {
+    alert(string2);
     cardText.innerHTML = string2;
 };
