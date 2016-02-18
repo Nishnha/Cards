@@ -1,0 +1,18 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+#card {
+    max-width: 30%;
+    min-width: 30%;
+    max-height: 120px;
+    min-height: 100px;
+}
+
+#cardText {
+    color: #cfd8dc;
+}
+
+#cardTask {
+    color: #eceff1;
+}
